@@ -15,3 +15,6 @@
 
 ##### AngularSrc
 `\angular-src$ ng serve`
+
+#### Build
+`\angular-src$ ng build`
